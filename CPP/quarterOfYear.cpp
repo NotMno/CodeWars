@@ -2,7 +2,7 @@
 #include <cmath>
 
 int quarter_of(int month){
-    return ceil((double)month / 4);
+    return ceil((double)month / 3);
 }
 
 int main()
