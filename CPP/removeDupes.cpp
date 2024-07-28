@@ -19,7 +19,6 @@ public:
                 }
                 cout << '\n';
             }
-
         }
 
         return nums.size();
